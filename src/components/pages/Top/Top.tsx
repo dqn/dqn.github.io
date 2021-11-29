@@ -1,3 +1,3 @@
 export const Top: React.VFC = () => {
-  return <p>Hello!</p>;
+  return <p className="font-bold text-lg">Hello!</p>;
 };
