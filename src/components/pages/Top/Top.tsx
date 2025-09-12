@@ -1,3 +1,5 @@
-export const Top: React.VFC = () => {
-  return <p className="font-bold text-lg">Hello!</p>;
+import React from "react";
+
+export const Top: React.FC = () => {
+  return <p className={"font-bold text-lg"}>Hello!</p>;
 };
